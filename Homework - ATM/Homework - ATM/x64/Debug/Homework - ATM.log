@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Albina\source\repos\Homework - ATM\Homework - ATM\main.cpp(89,45): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Albina\source\repos\Homework - ATM\Homework - ATM\main.cpp(90,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Albina\source\repos\Homework - ATM\Homework - ATM\main.cpp(98,45): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Albina\source\repos\Homework - ATM\Homework - ATM\main.cpp(102,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Albina\source\repos\Homework - ATM\Homework - ATM\main.cpp(33): warning C4715: 'chooseBankFunc': not all control paths return a value
+  Homework - ATM.vcxproj -> C:\Users\Albina\source\repos\Homework - ATM\x64\Debug\Homework - ATM.exe
